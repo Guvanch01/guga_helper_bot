@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+requests
+python-docx
+python-pptx
+openpyxl
+duckduckgo-search
+Pillow
+google-generativeai
+groq
